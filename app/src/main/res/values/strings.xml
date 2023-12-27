@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="timer_count_down">Timer App</string>
+    <string name="counting_down_1_minute_time_tick_tick_tick">Counting down 1 minute. Tick…Tick…Tick</string>
+    <string name="one_minute_count_down_ended">One minute count down ended</string>
+    <string name="timer_app_notification_channel">Timer App Notifications</string>
+</resources>
